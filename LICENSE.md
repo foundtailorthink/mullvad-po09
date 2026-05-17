@@ -1,10 +1,10 @@
-فوري Mullvad تطبيق | تحسين البث + دعم L2TP هو أفضل Mullvad تطبيق مع تحسين البث و دعم L2TP. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/mullvad-po09/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
